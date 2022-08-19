@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="math_func.cpp" />
     <ClCompile Include="task_1.cpp" />
   </ItemGroup>
   <ItemGroup>
